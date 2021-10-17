@@ -1,0 +1,11 @@
+{   
+   "name": "D35EMetricSpeedModule",   
+   "title": "D35EMetricSpeedModule",   
+   "description": "Metric Support or Drag Ruler",   
+   "author": "Axecleft",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.7.5",
+   "compatibleCoreVersion":"0.8.9",
+   "esmodules": "./metricspeed.js"
+
+ }
